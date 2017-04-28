@@ -1,0 +1,21 @@
+body, h1 {
+  margin: 0;
+  padding: 0;
+  font-family: 'Helvetica', sans-serif;
+}
+
+body {
+  background: url(background.jpg);
+  background-size: cover;
+}
+
+.container {
+  overflow-x: hidden;
+}
+
+.heading-1 {
+  font-size: 480px;
+  font-weight: 100;
+  opacity: 0.1;
+  margin-top: -63px;
+}
