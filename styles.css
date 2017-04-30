@@ -4,13 +4,11 @@ body, h1 {
   font-family: 'Helvetica', sans-serif;
 }
 
-body {
+.container {
   background: url(background.jpg);
   background-size: cover;
-}
-
-.container {
   overflow-x: hidden;
+  height: 100vh;
 }
 
 .heading-1 {
