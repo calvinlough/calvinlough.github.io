@@ -4,6 +4,10 @@ body, h1 {
   font-family: 'Helvetica', sans-serif;
 }
 
+body {
+  overflow: hidden;
+}
+
 .container {
   background: url(../images/background.jpg);
   background-size: cover;
